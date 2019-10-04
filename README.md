@@ -16,7 +16,8 @@ The complete and full implementation of reputation system is handled:
 2.      Implementation of change in user reputation based on the role and upvote and downvote which needs a research model where all the specifications required for updation of reputation is implemented. </br>
 3.      The difference between system reputation and community reputation. </br>
 </br>
-**Difference between our system and rest** : 
+
+**Difference between our system and rest** : </br>
 1.) Grading System scales itself depending on the number of contributors.</br>
 2.)  Solved the problem of ”Why there should be equal distribution of points for all the contributors of an
 article” by devising a scaling algorithm of fair allocation unlike stack overflow which has a fixed scheme of reputation depending on the number of upvotes.</br>
